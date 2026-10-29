@@ -165,6 +165,6 @@ This project is an educational prototype. Production deployments require additio
 
 ## Author
 
-Nived Kumar Nagula
+Bathini Vamshi
 
 Built as a portfolio project to demonstrate Python, SQL, API development, and generative AI integration.
