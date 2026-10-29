@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local database
+sales.db
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
